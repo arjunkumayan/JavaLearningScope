@@ -1,9 +1,11 @@
 package JavaSessionsNew;
 
 public class P6ArrayConcept {
+	final int a=10;
 
 	public static void main(String[] args) {
 
+		final int b;
 		// two major limitations:
 		// 1. static array: size is fixed: to solve this problem, we use
 		// ArrayList - dynamic arrays

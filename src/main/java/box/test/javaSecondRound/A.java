@@ -18,6 +18,8 @@ public class A {
 	{
 		int i=20;
 	System.out.println(i);
+	System.out.println();
+	
 	}
 	
 	
